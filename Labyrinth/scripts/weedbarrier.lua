@@ -38,17 +38,23 @@ function postInit(me)
     end
 end
 
+local function pushback(me, e)
+    local x, y = entity_getVectorToEntity(me, e)
+    vector_setLength(x, y, 20000*dt)
+    entity_clearVel(e)
+    entity_addVel(e, x, y)
+    entity_addVel2(e, x, y)
+    entity_warpLastPosition(e)
+end
+
 function update(me, dt)
     entity_handleShotCollisions(me)
-    
-    -- HMM: does this always work? based on fishpass node...
     if entity_touchAvatarDamage(me, entity_getCollideRadius(me), 0) then
-        local x, y = entity_getVectorToEntity(me, v.n)
-        vector_setLength(x, y, 20000*dt)
-        entity_clearVel(v.n)
-        entity_addVel(v.n, x, y)
-        entity_addVel2(v.n, x, y)
-        entity_warpLastPosition(v.n)
+        pushback(me, v.n)
+        local ride = entity_getRiding(v.n)
+        if ride ~= 0 then
+            pushback(me, ride)
+        end
     end
 end
 

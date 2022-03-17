@@ -1,0 +1,7 @@
+<AquariaMod>
+	<Fullname text="Labyrinth" />
+	<Description text="For those who like mazes" />
+
+	<!-- Hey, no cheating ;) -->
+	<Properties blockEditor="1" hasWorldMap="1" />
+</AquariaMod>
