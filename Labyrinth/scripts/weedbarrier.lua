@@ -38,7 +38,7 @@ function postInit(me)
     end
 end
 
-local function pushback(me, e)
+local function pushback(me, e, dt)
     local x, y = entity_getVectorToEntity(me, e)
     vector_setLength(x, y, 20000*dt)
     entity_clearVel(e)
@@ -50,7 +50,7 @@ end
 function update(me, dt)
     entity_handleShotCollisions(me)
     if entity_touchAvatarDamage(me, entity_getCollideRadius(me), 0) then
-        pushback(me, v.n)
+        pushback(me, v.n, dt)
         local ride = entity_getRiding(v.n)
         if ride ~= 0 then
             pushback(me, ride)
