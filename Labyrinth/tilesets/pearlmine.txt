@@ -1,0 +1,110 @@
+0 black
+1 minerock1 128 128
+2 minerock2 128 128
+3 minerock3 128 128 
+4 minerock2 128 128
+5 bg-rock-rep-0002
+6 bg-rock-rep-0003
+7 bg-rock-0001
+8 bg-rock-0002
+9 bg-rock-0003
+10 bg-rock-0004
+11 bg-rock-0005
+12 bg-rock-0006
+13 bg-rock-0024
+14 bg-rock-0025
+15 bg-rock-0018
+16 bg-rock-0019
+17 bg-light-0001
+18 bg-light-0002
+19 bg-light-0003
+20 darkness-0001
+21 darkness-0002
+22 darkness-0003
+23 darkness-0004
+24 dark-full
+25 dark-partial
+26 dark-little
+27 healthplant-bush
+28 bg-rock-rep-0009
+29 driftpearl1
+30 driftpearl2
+31 purpleslab3dk
+32 purplroundblack
+33 deepsbg
+34 purparch2black
+35 purparch1black
+36 purplerock7
+37 purplerock2
+38 ship-plank-0001
+39 ship-plank-0002
+40 ship-mast-0001
+41 purpleround
+42 purpleroundl
+42 purpleroundd
+43 purpleroundblack
+44 zenrock5
+45 purpleslab3black
+46 kuirlinarmbones
+47 kuirlinskull
+48 kuirlinskeleton
+49 kuirlinslave1
+50 warp2
+51 spiralglow2
+52 pearlrock1
+53 pearlrock2
+54 driftpearl1
+55 driftpearl2
+56 driftpearl3
+57 driftpearl4
+58 driftpearl5
+59 driftpearl6
+60 driftpearl7
+61 driftpearl0
+62 testbed-05
+63 chains-0002
+64 tunnelrock1
+65 tunnelrock2
+66 tunnelrock3
+67 tunnelrock4
+68 mineocto2
+69 memory-crystal-0001
+70 anotherbkgd
+71 kuirlinghost
+72 anotherbkgd2
+73 latticeplantdark
+74 seaplantblack
+75 seaplantghost
+76 seaplantghost2
+77 latticeplantlight
+78 minebg
+79 minetunnel
+80 pearlround
+81 translight
+82 nudi-shell
+83 sand-purple
+84 fibers
+85 shell
+86 minemola1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

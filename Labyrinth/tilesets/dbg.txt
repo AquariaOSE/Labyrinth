@@ -1,0 +1,58 @@
+0 crate
+1 tile-rock-0001 128 128
+2 tile-rock-0002 128 128
+3 tile-rock-0003 128 128 
+4 tile-rock-0004 128 128
+5 driftpearl1
+6 driftpearl2
+7 driftpearl3
+8 driftpearl4
+9 driftpearl5
+10 driftpearl6
+11 driftpearl7
+12 driftpearl0
+13 driftpearl1c
+14 driftpearl2c
+15 driftpearl3c
+16 driftpearl4c
+17 driftpearl5c
+18 driftpearl6c
+19 driftpearl7c
+20 driftpearl0c
+21 bg-rock-rep-0003
+22 pearlrock1
+23 driftpearldropcolor
+24 mineocto2
+25 driftpearldrop
+26 purplespooter2happy2
+27 purplespooter2happy
+28 kuirlinarm2
+29 kuirlinarm3
+30 amb-bg
+31 amb-mito
+32 amb-nucleus
+33 amb-vacuole
+34 amb-inc1
+35 amb-inc2
+36 amb-vacuoletrans
+37 euglena1
+38 amb-membrane
+39 kuirlinghost
+40 kuirlinrescued
+41 kuirlinslave1
+42 bigcellboss2
+43 bigcellboss/stitches
+44 bigcellboss/stitches-big
+
+
+
+
+
+
+
+
+
+
+
+
+

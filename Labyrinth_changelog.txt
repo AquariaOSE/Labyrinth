@@ -1,0 +1,57 @@
+Labyrinth v1.22 [26th March 2013]
+=================================
+
+* Improved purple blaster death animation
+* Some minor graphics fixes here and there
+* Fixed leftover debug code from last version that would cause
+  the mine octo boss to die instantly once a note was sung
+* Wheel map: The old kuirlin dude in one of the houses will now be awake
+  and roam around after the mine octo was killed.
+
+
+Labyrinth v1.21 [15th Sept 2012]
+===============================
+
+* Fixed harmless script glitch with sleep/sit/throne nodes + seahorses
+
+Wheel, Main:
+- Fixed position of a few sleep/sit/throne spots
+
+Pearlmine:
+- Halved kuirlin spawn duration after bossfight
+- Fixed problems with kuirlins getting stuck in walls
+
+
+Labyrinth v1.2 [12th July 2012]
+================================
+
+* Added partial world maps! Woo!
+* Added some sleep and sit nodes to several of the maps
+
+Main:
+- Thinned out anemones in upper pond
+- Corrected water bubble layer
+- Minor misc things
+
+Pearlmine:
+- Adjusted warp particle effects to warp nodes, and their sizes
+
+
+Labyrinth v1.1 [15th April 2012]
+================================
+
+Pearlmine:
+- Sunform cave: Added darkness so the particle effect flash doesn't show underneath the layer 8 border rocks.
+- Fixed wooden door getting destroyed when hit by a laser.
+- Fixed entities getting stuck after defeating the boss.
+- Replaced small rocks with nudi shells - causes less stuttering when loading the map.
+
+Wheel:
+- Fish form is now required to leave the map. (If the map is left without fish form, the ending scene is not triggered)
+- Fixed permanently respawning singbulb (2 special cakes) near the pearlmine lens.
+
+Misc:
+- Added Daxar as version 1.1 tester to the credits screen.
+  (Also be sure to check out his awesome Labyrinth let's play:
+   http://www.youtube.com/playlist?list=PLF17ACDF4D514BBBC&feature=plcp)
+

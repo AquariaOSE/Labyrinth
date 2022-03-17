@@ -1,0 +1,63 @@
+0 crate
+1 rapidsrock1 128 128
+2 rapidsrock2 128 128
+3 rapidsrock3 128 128 
+4 rapidsrock4 128 128
+5 rapidsbg
+6 deepsbg
+7 purpleslab1
+8 purpleslab2
+9 bg-light-0001
+10 bg-light-0002
+11 bg-light-0003
+12 darkness-0001
+13 darkness-0002
+14 darkness-0003
+15 darkness-0004
+16 dark-full
+17 dark-partial
+18 dark-little
+19 minebg
+20 bg-rock-rep-0002
+21 bg-rock-rep-0003
+22 abyss-spikes
+23 songbulbicon
+24 mineocto2
+25 driftpearldrop
+26 purplespooter2happy2
+27 purplespooter2happy
+28 purparch2black
+29 purparch2d
+30 mazerock1
+31 mazerock2
+32 mazerock3
+33 purparch2
+34 backgdsq6
+35 purplant3
+36 purplerock2
+37 purplerock5
+38 amb-membrane
+39 amb-mitotrans
+40 bkgdsquare
+41 ambient-blue
+42 seaplantgold
+43 purplantgold
+44 purplantdark
+45 memory-crystal-0001
+46 brownrock1
+47 brownrock2
+48 brownrock3
+49 warpback
+
+
+
+
+
+
+
+
+
+
+
+
+

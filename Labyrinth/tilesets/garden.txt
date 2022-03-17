@@ -1,0 +1,78 @@
+0 crate
+1 tile-rock-0001 128 128
+2 tile-rock-0002 128 128
+3 tile-rock-0003 128 128 
+4 tile-rock-0004 128 128
+5 forest-bg-rep-0001
+6 forest-bg-rock-0001
+7 forest-bg-rock-0002
+8 kelp-0001
+9 kelp-bg-0001
+10 kelp-bg-0001
+11 bg-light-0001
+12 grass-bed-0001
+13 grass-bed-0002
+14 grass-rock-0001
+15 grass-rock-0001
+16 grass-tile-0001
+17 grass-tile-0002
+18 forest-bg-rock-0003
+19 forest-bg-rock-0004
+20 seaweed-bulb
+21 seaweed-stalk
+22 seaweed-leaf
+23 darkness-0001
+24 darkness-0002
+25 darkness-0003
+26 darkness-0004
+27 memory-crystal-0002
+28 bg-rock-rep-0006
+29 forest-statue-0001
+30 dark-full
+31 dark-partial
+32 purpleslab1
+33 purpleslab1ruin
+34 heretic-skull-top
+35 heretic-skull-bottom
+36 forest-ruin-floor-rep
+37 hanging-moss-0001
+38 ship-bg-rep-0001
+39 crate-0001
+40 crate-0002
+41 ship-porthole-0001
+42 ship-plank-0001
+43 ship-plank-0002
+44 ship-mast-0001
+45 spirit-crystal-0001
+46 glow-blue
+47 tubeflower-leaf-0001
+48 tubeflower-leaf-0002
+49 dead-walker
+50 ambient-blue
+51 forest-bg-rock-0005
+52 spiral1.png
+53 pot-0001
+54 pot-0002
+55 mazerock1
+56 mazerock2
+57 mazerock3
+58 kuirlinmoss
+59 kuirlinplant
+60 purplant3
+61 purplant3dark
+62 spiralpurple
+63 purpleslab2
+64 purpround
+65 purplroundl
+66 purplroundd
+67 purplroundblack
+68 bkgdsquare
+69 drygrasspurp
+70 kuirlinplant2
+71 bkgdsquareblue
+72 warp
+73 warp2
+
+
+
+
